@@ -1,0 +1,9 @@
+C:\Users\david\source\repos\Calculadora\BibliotecaOperacionesAritmeticas\bin\Debug\netstandard2.0\BibliotecaOperacionesAritmeticas.deps.json
+C:\Users\david\source\repos\Calculadora\BibliotecaOperacionesAritmeticas\bin\Debug\netstandard2.0\BibliotecaOperacionesAritmeticas.dll
+C:\Users\david\source\repos\Calculadora\BibliotecaOperacionesAritmeticas\bin\Debug\netstandard2.0\BibliotecaOperacionesAritmeticas.pdb
+C:\Users\david\source\repos\Calculadora\BibliotecaOperacionesAritmeticas\obj\Debug\netstandard2.0\BibliotecaOperacionesAritmeticas.csprojAssemblyReference.cache
+C:\Users\david\source\repos\Calculadora\BibliotecaOperacionesAritmeticas\obj\Debug\netstandard2.0\BibliotecaOperacionesAritmeticas.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\Calculadora\BibliotecaOperacionesAritmeticas\obj\Debug\netstandard2.0\BibliotecaOperacionesAritmeticas.AssemblyInfo.cs
+C:\Users\david\source\repos\Calculadora\BibliotecaOperacionesAritmeticas\obj\Debug\netstandard2.0\BibliotecaOperacionesAritmeticas.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\Calculadora\BibliotecaOperacionesAritmeticas\obj\Debug\netstandard2.0\BibliotecaOperacionesAritmeticas.dll
+C:\Users\david\source\repos\Calculadora\BibliotecaOperacionesAritmeticas\obj\Debug\netstandard2.0\BibliotecaOperacionesAritmeticas.pdb

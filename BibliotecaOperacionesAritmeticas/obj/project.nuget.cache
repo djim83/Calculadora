@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7mGFn2I10Zqtu9QLJbCxv6nfNGAUgY6mm9KmApgMuNR39K6NUI6wuhqc7otXD9GqhtbA8jXQK1Hi+ckjK4y8rw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\david\\source\\repos\\Calculadora\\BibliotecaOperacionesAritmeticas\\BibliotecaOperacionesAritmeticas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
